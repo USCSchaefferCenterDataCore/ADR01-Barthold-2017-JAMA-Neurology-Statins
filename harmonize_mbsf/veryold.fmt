@@ -1,0 +1,9 @@
+/* for the veryold variable on bene_demog */
+  value $veryold
+  "0"="0.90 or less"
+  "1"="1.91-100"
+  "2"="2.101-110"
+  "3"="3.111-120"
+  "4"="4.121-130"
+  "5"="5.gt 130"
+  ;
